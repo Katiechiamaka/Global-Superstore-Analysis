@@ -19,7 +19,7 @@ This analysis was guided by the following business objectives:
 
 - Deliver actionable insights through data visualization for informed decision-making
 
-## Dataset Overview
+# Dataset Overview
 
 - **Source:** Kaggle
 - **Dataset Name:** Global Superstore Sales Dataset
@@ -29,5 +29,22 @@ This analysis was guided by the following business objectives:
 - **Number of Columns:** 27
 - **Key Variables:** Order ID, Customer ID, Region, Product Category and Sub-category, Sales, Profit, Discount, Shipping Mode
 - **Purpose:** Used to analyze Sales performance, profitability, and operational efficiency.
+
+
+# Tools and Techniques
+### Tools Used
+- **Microsoft Excel** – For data exploration, analysis, and visualization
+- - **Power Query** – For data cleaning and transformation
+- **Power Pivot** – For data modeling and advanced calculations using DAX
+
+### Techniques Applied
+- **Data Cleaning & Transformation** – Handled missing values, removed duplicates, and formatted data
+- **Data Modeling** – Created relationships between tables and calculated measures
+- **Exploratory Data Analysis (EDA)** – Summarized key metrics and identified patterns in sales, profit, and customer behavior
+- **Tables and Charts** – Used pivot tables, regular tables, and charts to visualize data and communicate insights
+- **Visualization & Dashboarding** – Built charts and interactive dashboards to highlight insights
+- **Profitability & Loss Analysis** – Identified loss-making products, regions, and customers
+- **Operational Analysis** – Analyzed shipping modes, discount impacts, and regional performance
+
 
 
