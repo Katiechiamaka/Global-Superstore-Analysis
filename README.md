@@ -34,22 +34,22 @@ This analysis was guided by the following business objectives:
 # Tools and Techniques
 ### Tools Used
 - **Microsoft Excel** – For data exploration, analysis, and visualization
-- - **Power Query** – For data cleaning and transformation
+- **Power Query** – For data cleaning and transformation
 - **Power Pivot** – For data modeling and advanced calculations using DAX
 
 ### Techniques Applied
-- **Data Cleaning & Transformation** – Handled missing values, removed duplicates, and formatted data
+- **Data Cleaning and Transformation** – Handled missing values, removed duplicates, and formatted data
 - **Data Modeling** – Created relationships between tables and calculated measures
 - **Exploratory Data Analysis (EDA)** – Summarized key metrics and identified patterns in sales, profit, and customer behavior
 - **Tables and Charts** – Used pivot tables, regular tables, and charts to visualize data and communicate insights
-- **Visualization & Dashboarding** – Built charts and interactive dashboards to highlight insights
-- **Profitability & Loss Analysis** – Identified loss-making products, regions, and customers
+- **Visualization and Dashboarding** – Built charts and interactive dashboards to highlight insights
+- **Profitability and Loss Analysis** – Identified loss-making products, regions, and customers
 - **Operational Analysis** – Analyzed shipping modes, discount impacts, and regional performance
 
 
 # Data Modeling
 - **Model Type:** Star Schema
-- **Fact Table:** `Orders` – Contains transactional data such as sales, profit, quantity, and discount
+- **Fact Table:** Orders – Contains transactional data such as sales, profit, quantity, and discount
 - **Dimension Tables:**
   - `Customer` – Contains customer details (ID, name, segment, region)
   - `Product` – Contains product details (ID, category, sub-category, price)
