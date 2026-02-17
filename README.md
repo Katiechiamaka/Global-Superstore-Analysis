@@ -19,6 +19,15 @@ This analysis was guided by the following business objectives:
 
 - Deliver actionable insights through data visualization for informed decision-making
 
-# Dataset Overview
+## Dataset Overview
+
+- **Source:** Kaggle
+- **Dataset Name:** Global Superstore Sales Dataset
+- **Description:** Contains transactional sales data for a Global retail superstore, including information about products, customers, regions, shipping, discounts, and profits.
+- **Time Period:** January 2011 – December 2014
+- **Number of Records:** 51,290 rows
+- **Number of Columns:** 27
+- **Key Variables:** Order ID, Customer ID, Region, Product Category and Sub-category, Sales, Profit, Discount, Shipping Mode
+- **Purpose:** Used to analyze Sales performance, profitability, and operational efficiency.
 
 
