@@ -47,4 +47,24 @@ This analysis was guided by the following business objectives:
 - **Operational Analysis** – Analyzed shipping modes, discount impacts, and regional performance
 
 
+# Data Modeling
+- **Model Type:** Star Schema
+- **Fact Table:** `Orders` – Contains transactional data such as sales, profit, quantity, and discount
+- **Dimension Tables:**
+  - `Customer` – Contains customer details (ID, name, segment, region)
+  - `Product` – Contains product details (ID, category, sub-category, price)
+  - `Location` – Contains regional and country information
+  - `Calendar` – Contains date-related fields (order date, month, quarter, year)
+- **Relationships:**
+  - Each dimension table is linked to the `Orders` fact table via a primary key → foreign key relationship
+  - All relationships are one-to-many (1 dimension record → many orders)
+- **Purpose:**
+  - Enables efficient aggregation and analysis of sales, profit, and operational metrics
+  - Supports slicing and dicing the data by customer, product, location, and time
+  - Facilitates creation of measures and KPIs using Power Pivot (DAX)
+
+<img width="946" height="453" alt="Data Model" src="https://github.com/user-attachments/assets/56a4d418-0b6f-47af-a42d-81046855a418" />
+
+
+
 
