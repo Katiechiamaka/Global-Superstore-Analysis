@@ -8,10 +8,8 @@ This dataset contains transactional retail sales data covering customer orders, 
 This analysis was guided by the following business objectives:
 
 - Monitor overall sales and profit trends to assess business performance
-
-Identify regions, products, and customers driving losses for targeted improvements
-
-Highlight top-performing products and customers to inform growth strategies
+- Identify regions, products, and customers driving losses for targeted improvements
+- Highlight top-performing products and customers to inform growth strategies
 
 Evaluate operational efficiency, including shipping modes, to maximize profitability
 
