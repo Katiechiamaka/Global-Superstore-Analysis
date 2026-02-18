@@ -19,7 +19,7 @@ This analysis was guided by the following business objectives:
 
 - Deliver actionable insights through data visualization for informed decision-making
 
-# Dataset Overview
+# Dataset Description
 
 - **Source:** Kaggle
 - **Dataset Name:** Global Superstore Sales Dataset
@@ -46,6 +46,14 @@ This analysis was guided by the following business objectives:
 - **Profitability and Loss Analysis** – Identified loss-making products, regions, and customers
 - **Operational Analysis** – Analyzed shipping modes, discount impacts, and regional performance
 
+# Data Cleaning And Preparation
+To ensure accurate and reliable insights, the dataset underwent the following steps:
+- Conducted data inspection to understand structure and relationships.
+- Handled missing values, and checked for duplicate records.
+- Standardized categorical data types.
+- Cleaned inconsistent text entries (regions, product names, etc.).
+- Created calculated metrics such as Profit Margin (%).
+- Extracted Year and Month from Order Date and Shipment Date for time-based analysis.
 
 # Data Modeling
 - **Model Type:** Star Schema
