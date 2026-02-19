@@ -73,6 +73,32 @@ To ensure accurate and reliable insights, the dataset underwent the following st
 
 <img width="946" height="453" alt="Data Model" src="https://github.com/user-attachments/assets/56a4d418-0b6f-47af-a42d-81046855a418" />
 
+# Key Questions And Analysis
+
+
+
+
+# Key Insights (KPIS)
+
+
+# DashBoard
+### Global Superstore Dashboard Overview
+<img width="932" height="412" alt="Global Superstore Dashboard Overview" src="https://github.com/user-attachments/assets/ae36a130-dbac-47ef-9ab3-07ab7317ed3b" />
+
+### Sales And Profit Analysis
+<img width="933" height="410" alt="Global Superstore Sales and Profit Analysis" src="https://github.com/user-attachments/assets/709216a7-5923-4413-ad39-d82fc1e70534" />
+
+### Risk And Loss Analysis 
+<img width="934" height="410" alt="Global Superstore Risk and Loss Analysis" src="https://github.com/user-attachments/assets/2b6efa3c-a7ee-4f71-a4ad-3a06b2de3fde" />
+
+# Recommendation
+
+
+#Challenges Faced And How it was Solved
+
+
+
+# Conclusion
 
 
 
