@@ -74,7 +74,14 @@ To ensure accurate and reliable insights, the dataset underwent the following st
 <img width="946" height="453" alt="Data Model" src="https://github.com/user-attachments/assets/56a4d418-0b6f-47af-a42d-81046855a418" />
 
 # Key Questions And Analysis
+- Which regions generate the highest sales and profit?
 
+- Which products are loss-generating?
+- Which markets have the lowest profit margins?
+
+- How do discounts impact product profitability?
+- Which customers contribute the most to total profit?
+- What is the relationship between shipping mode and profitability?
 
 
 
@@ -94,7 +101,7 @@ To ensure accurate and reliable insights, the dataset underwent the following st
 # Recommendation
 
 
-#Challenges Faced And How it was Solved
+# Challenges Faced And How it was Solved
 
 
 
