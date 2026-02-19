@@ -81,7 +81,105 @@ To ensure accurate and reliable insights, the dataset underwent the following st
 - Which customers contribute the most to total profit?
 - What is the relationship between shipping mode and profitability?
 
+Which markets generate the highest revenue?
 
+Answer Summary:
+The Central market leads revenue generation, followed by North and North Asia.
+
+2️⃣ Which markets generate the lowest revenue?
+
+Answer Summary:
+Canada and Southeast Asia contribute the least revenue.
+
+3️⃣ Which markets have the highest profit margins?
+
+Answer Summary:
+Canada records the highest profit margin despite low revenue, indicating operational efficiency.
+
+4️⃣ Which markets have the lowest profit margins?
+
+Answer Summary:
+Southeast Asia and EMEA operate on very thin margins.
+
+5️⃣ Which countries generate the largest financial losses?
+
+Answer Summary:
+Turkey and Nigeria are the largest country-level loss contributors.
+
+6️⃣ Are losses concentrated in a few countries?
+
+Answer Summary:
+Yes. A small number of countries account for a significant portion of total losses.
+
+7️⃣ Which product category is the most profitable?
+
+Answer Summary:
+Technology is the strongest profit driver.
+
+8️⃣ Which product category contributes the least profit?
+
+Answer Summary:
+Furniture generates the lowest profit among major categories.
+
+9️⃣ Which sub-category is most profitable?
+
+Answer Summary:
+Copiers and Phones contribute the highest profits.
+
+🔟 Which sub-category generates losses?
+
+Answer Summary:
+Tables consistently produce negative profit.
+
+1️⃣1️⃣ Which products generate revenue but erode profit?
+
+Answer Summary:
+High-cost technology items (e.g., certain printers and 3D printers) generate losses despite strong sales.
+
+1️⃣2️⃣ How do discounts affect profitability?
+
+Answer Summary:
+Discounted sales generate negative profit overall, significantly reducing margins.
+
+1️⃣3️⃣ Does revenue growth translate into profit growth?
+
+Answer Summary:
+Revenue grows consistently year-over-year, but profitability is impacted by discounting and loss-making products.
+
+1️⃣4️⃣ How does profit trend over time?
+
+Answer Summary:
+Profit increases alongside revenue but fluctuates depending on discount intensity.
+
+1️⃣5️⃣ Which shipping modes generate the most profit?
+
+Answer Summary:
+Standard shipping balances volume and profitability more effectively than premium shipping.
+
+1️⃣6️⃣ Who are the most profitable customers?
+
+Answer Summary:
+A small group of customers contributes disproportionately to total profit.
+
+1️⃣7️⃣ Is profitability concentrated among specific segments?
+
+Answer Summary:
+Yes. Technology-focused customers drive the majority of profits.
+
+1️⃣8️⃣ What is the overall profit margin?
+
+Answer Summary:
+The business operates at a total profit margin of 11.61%.
+
+1️⃣9️⃣ What factors are reducing overall margin?
+
+Answer Summary:
+Excessive discounting, loss-making sub-categories, and country-level inefficiencies.
+
+2️⃣0️⃣ Where are the biggest improvement opportunities?
+
+Answer Summary:
+Optimizing discount strategy, restructuring loss-making products, and improving performance in high-loss countries.
 
 # Key Insights
 Revenue is growing consistently year over year.
