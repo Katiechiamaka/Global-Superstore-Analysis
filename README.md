@@ -73,20 +73,40 @@ To ensure accurate and reliable insights, the dataset underwent the following st
 
 <img width="946" height="453" alt="Data Model" src="https://github.com/user-attachments/assets/56a4d418-0b6f-47af-a42d-81046855a418" />
 
-# Key Questions And Analysis
+# Key Business Questions Answered
 - Which regions generate the highest sales and profit?
-
 - Which products are loss-generating?
 - Which markets have the lowest profit margins?
-
 - How do discounts impact product profitability?
 - Which customers contribute the most to total profit?
 - What is the relationship between shipping mode and profitability?
 
 
 
-# Key Insights (KPIS)
+# Key Insights
+Revenue is growing consistently year over year.
 
+Technology category drives the majority of profit.
+
+Tables sub-category is significantly loss-making.
+
+Discounts negatively impact profitability.
+
+Some markets (Southeast Asia) have extremely low margins.
+
+A small group of customers contribute disproportionately to total profit.
+
+Customer debt and country-level debt indicate credit risk exposure.
+
+
+# Key KPIS 
+- Total Revenue: $12.64M
+- Total Orders: 25,035
+- Total Quantity Sold: 175K
+- Average Order Value: $505
+- Profit Margin: 11.61%
+- Total Customer Debt: -$65.51K
+- Total Countries Debt: -$447.9K
 
 # DashBoard
 ### Global Superstore Dashboard Overview
@@ -99,13 +119,68 @@ To ensure accurate and reliable insights, the dataset underwent the following st
 <img width="934" height="410" alt="Global Superstore Risk and Loss Analysis" src="https://github.com/user-attachments/assets/2b6efa3c-a7ee-4f71-a4ad-3a06b2de3fde" />
 
 # Recommendation
+1. Review Discount Strategy
+
+Implement controlled discount thresholds.
+
+Avoid high discounts on already low-margin products.
+
+🎯 2. Reprice or Discontinue Loss Products
+
+Re-evaluate pricing for Cubify printers and Tables.
+
+Consider discontinuing consistently loss-generating items.
+
+🎯 3. Focus on High-Margin Markets
+
+Invest more in Canada and North Asia.
+
+Improve operational efficiency in Southeast Asia.
+
+🎯 4. Optimize Product Mix
+
+Promote Technology products.
+
+Reduce inventory of low-performing furniture items.
+
+🎯 5. Strengthen Credit Management
+
+Improve customer payment policies.
+
+Reduce outstanding debt exposure.
 
 
 # Challenges Faced And How it was Solved
+Challenge 1: Data Quality Issues
 
+Missing values and inconsistent formatting.
+
+Solved by data cleaning and standardization.
+
+🔹 Challenge 2: Profit Distortion Due to Discounts
+
+Difficult to identify true profit drivers.
+
+Solved by isolating discounted vs non-discounted performance.
+
+🔹 Challenge 3: Multi-Dimensional Analysis
+
+Complex relationships across regions, categories, and time.
+
+Solved by implementing a Star Schema data model.
+
+🔹 Challenge 4: Identifying True Loss Drivers
+
+Sales did not equal profit.
+
+Used sub-category and product-level drilldowns
 
 
 # Conclusion
-
+The Global Superstore demonstrates strong revenue growth and expanding operations. However, profitability is being eroded by:
+ -- Excessive discounting
+ -- Loss-making furniture sub-categories (Tables)
+ -- Low-margin markets
+By optimizing discount policies, refining product mix, and focusing on high-margin markets, the business can significantly improve its overall profit margin beyond the current 11.61%.
 
 
