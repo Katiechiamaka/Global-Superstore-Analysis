@@ -94,16 +94,16 @@ To ensure accurate and reliable insights, the dataset underwent the following st
 
 ## Market Performance Analysis
 ### Regional Sales & Profit Margin Across Market
-- Which region generates the highest profit relative to its sales volume?
-- Why does the Central region have the highest sales volume but not the highest profit margin?
+- Which region generates the highest profit?
 - Which regions are underperforming in profit despite moderate or high sales?
-- Why does Canada lead with the highest profit margin (26.6%)?
-- What operational or pricing factors are driving Southeast Asia’s low 2.0% margin?
-- How can best practices from North Asia (19.5%) and Central Asia (17.6%) be replicated in lower-margin markets?
-- Are high-revenue markets also high-margin markets, or is margin being sacrificed for volume?
+- Which Region has the highest Profit Margin?
+- 
 <img width="1546" height="496" alt="Screenshot 2026-02-21 204418" src="https://github.com/user-attachments/assets/ac5f3399-7b73-49ec-9e51-abeb7d04a201" />
 
-
+#### Insights
+- The Central region generates the highest total profit ($311.4K) driven by the largest sales volume (41.8K units), though its margin is moderate (11%).
+- South and Southeast Asia underperform due to low profit margins despite maintaining moderate to high sales volumes.
+- Canada has the highest profit margin at 26.6%, making it the most efficient and profitable region relative to revenue.
 
 ## Product Category and Sub-category Analysis
 ### Product Category Performance
