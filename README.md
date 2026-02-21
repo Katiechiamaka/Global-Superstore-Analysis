@@ -79,7 +79,7 @@ To ensure accurate and reliable insights, the dataset underwent the following st
 
 <img width="736" height="404" alt="Screenshot 2026-02-21 192849" src="https://github.com/user-attachments/assets/b00dc955-11d1-4152-9381-fda26ae58efb" />
 
-Monthly Trend Analysis
+### Monthly Trend Analysis
 - Which months consistently generate the highest sales?
 - How does monthly sales growth fluctuate?
 - Which months generate the highest profit?
@@ -93,15 +93,38 @@ Monthly Trend Analysis
 - While December has the most sales, November generates the highest overall profit at $175.4K, followed closely by December ($170.7K) and September ($170.4K).
 
 ## Market Performance Analysis
+### Regional Sales & Profit Margin Across Market
+- Which region generates the highest profit relative to its sales volume?
+- Why does the Central region have the highest sales volume but not the highest profit margin?
+- Which regions are underperforming in profit despite moderate or high sales?
+- Why does Canada lead with the highest profit margin (26.6%)?
+- What operational or pricing factors are driving Southeast Asia’s low 2.0% margin?
+- How can best practices from North Asia (19.5%) and Central Asia (17.6%) be replicated in lower-margin markets?
+- Are high-revenue markets also high-margin markets, or is margin being sacrificed for volume?
 <img width="1546" height="496" alt="Screenshot 2026-02-21 204418" src="https://github.com/user-attachments/assets/ac5f3399-7b73-49ec-9e51-abeb7d04a201" />
 
 
 
 ## Product Category and Sub-category Analysis
+### Product Category Performance
+- Which products are consistently generating losses, and why?
+- Should loss-making products (e.g., 3D printers, furniture items) be discontinued, repriced, or cost-optimized?
+- Are discounts contributing to negative product profitability?
+- Is there a pattern across specific product categories driving losses?
 
-
+### Sub-Category Performance
+- Why are Copiers and Phones the most profitable sub-categories?
+- Why is Tables generating negative profit while other furniture-related categories perform better?
+- How can high-performing sub-categories be further leveraged to drive overall revenue growth?
+- Should marketing and inventory focus shift toward high-margin sub-categories?
 
 ## Risk and Loss Analysis
+### Customer Performance
+- Which customers contribute the most to overall profitability?
+- How dependent is the business on the top 10 most profitable customers?
+- What is driving outstanding balances among the top owing customers?
+
+
 
 <img width="1587" height="405" alt="Screenshot 2026-02-22 000406" src="https://github.com/user-attachments/assets/d9fba595-616d-41ac-b1f5-26bb1e113277" />
 
