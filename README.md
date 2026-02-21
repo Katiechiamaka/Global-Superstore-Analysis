@@ -82,8 +82,12 @@ To ensure accurate and reliable insights, the dataset underwent the following st
 - What is the relationship between shipping mode and profitability?
 
 # Time-Based Sales Performance Analysis
+- Which months consistently generate the highest sales?
+- Which months underperform in terms of revenue?
+- How does monthly sales growth fluctuate throughout the year?
 <img width="1470" height="558" alt="Screenshot 2026-02-21 193909" src="https://github.com/user-attachments/assets/142d1387-626f-4a97-8ef8-2d251eed3a52" />
 
+How has overall sales performance evolved over the past years?
 <img width="736" height="404" alt="Screenshot 2026-02-21 192849" src="https://github.com/user-attachments/assets/b00dc955-11d1-4152-9381-fda26ae58efb" />
 
 
