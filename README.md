@@ -83,8 +83,9 @@ To ensure accurate and reliable insights, the dataset underwent the following st
 
 # Time-Based Sales Performance Analysis
 - Which months consistently generate the highest sales?
-- Which months underperform in terms of revenue?
-- How does monthly sales growth fluctuate throughout the year?
+- How does monthly sales growth fluctuate?
+- How does monthly profit fluctuate over time?
+- Which months generate the highest profit?
 <img width="1470" height="558" alt="Screenshot 2026-02-21 193909" src="https://github.com/user-attachments/assets/142d1387-626f-4a97-8ef8-2d251eed3a52" />
 
 How has overall sales performance evolved over the past years?
