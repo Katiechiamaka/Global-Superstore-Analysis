@@ -89,7 +89,14 @@ To ensure accurate and reliable insights, the dataset underwent the following st
 - July shows both sales decline and profit drop. However, profit steadily improves toward Q4.
 - While December has the most sales, November generates the highest overall profit at $175.4K, followed closely by December ($170.7K) and September ($170.4K).
 
-#### Summary 
+## Market Revenue and Profit Analysis
+
+<img width="1546" height="496" alt="Screenshot 2026-02-21 204418" src="https://github.com/user-attachments/assets/ac5f3399-7b73-49ec-9e51-abeb7d04a201" />
+
+
+
+
+#### Summary fot time based sales performance
 Over the four-year period, the business demonstrates consistent annual growth, nearly doubling sales from $2.26M to $4.30M. However, monthly performance shows significant volatility, with sharp mid-year declines (notably July) followed by strong recoveries.
 Seasonal patterns indicate Q3 and Q4 as peak performance periods, driving both sales and profitability. Profit trends closely align with sales trends, suggesting operational efficiency and stable margins.
 
@@ -104,6 +111,7 @@ Seasonal patterns indicate Q3 and Q4 as peak performance periods, driving both s
 - How do discounts impact product profitability?
 - Which customers contribute the most to total profit?
 - What is the relationship between shipping mode and profitability?
+- 
 Which markets generate the highest revenue?
 
 Answer Summary:
