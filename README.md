@@ -75,14 +75,26 @@ To ensure accurate and reliable insights, the dataset underwent the following st
 
 # Key Business Questions Answered
 ## Time-Based Sales Performance Analysis
+- How has overall sales performance evolved over the past years?
 - Which months consistently generate the highest sales?
 - How does monthly sales growth fluctuate?
-- How does monthly profit fluctuate over time?
 - Which months generate the highest profit?
+
+<img width="736" height="404" alt="Screenshot 2026-02-21 192849" src="https://github.com/user-attachments/assets/b00dc955-11d1-4152-9381-fda26ae58efb" />
+
 <img width="1470" height="558" alt="Screenshot 2026-02-21 193909" src="https://github.com/user-attachments/assets/142d1387-626f-4a97-8ef8-2d251eed3a52" />
 
-How has overall sales performance evolved over the past years?
-<img width="736" height="404" alt="Screenshot 2026-02-21 192849" src="https://github.com/user-attachments/assets/b00dc955-11d1-4152-9381-fda26ae58efb" />
+- Sales increased consistently every year, from 2011 to 2014, sales grew by $2.04M overall. That represents nearly 90% total growth over four years.
+- Q3 (July - Sep) and Q4 (Oct - Dec) are high-performance periods. July appears to be a recurring risk month with a decrease in sales and profit.
+- July shows both sales decline and profit drop. However, profit steadily improves toward Q4.
+- While December has the most sales, November generates the highest overall profit at $175.4K, followed closely by December ($170.7K) and September ($170.4K).
+
+#### Summary 
+Over the four-year period, the business demonstrates consistent annual growth, nearly doubling sales from $2.26M to $4.30M. However, monthly performance shows significant volatility, with sharp mid-year declines (notably July) followed by strong recoveries.
+Seasonal patterns indicate Q3 and Q4 as peak performance periods, driving both sales and profitability. Profit trends closely align with sales trends, suggesting operational efficiency and stable margins.
+
+
+
 
 
 
