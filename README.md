@@ -94,6 +94,24 @@ To ensure accurate and reliable insights, the dataset underwent the following st
 
 
 
+## Product Category and Sub-category Analysis
+
+
+
+## Risk and Loss Analysis
+
+<img width="1587" height="405" alt="Screenshot 2026-02-22 000406" src="https://github.com/user-attachments/assets/d9fba595-616d-41ac-b1f5-26bb1e113277" />
+
+<img width="654" height="574" alt="Screenshot 2026-02-22 000959" src="https://github.com/user-attachments/assets/e792b1eb-f539-47f6-b63d-ff9ff126aa83" />
+
+<img width="1165" height="471" alt="Screenshot 2026-02-22 000910" src="https://github.com/user-attachments/assets/f7bfef61-9b25-4875-8963-36ab800cab03" />
+
+
+
+
+## Impact Of Discount and Shipping Fee Analysis
+
+
 
 
 #### Summary fot time based sales performance
