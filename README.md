@@ -89,9 +89,9 @@ To ensure accurate and reliable insights, the dataset underwent the following st
 - July shows both sales decline and profit drop. However, profit steadily improves toward Q4.
 - While December has the most sales, November generates the highest overall profit at $175.4K, followed closely by December ($170.7K) and September ($170.4K).
 
-## Market Revenue and Profit Analysis
-
+## Market Performance Analysis
 <img width="1546" height="496" alt="Screenshot 2026-02-21 204418" src="https://github.com/user-attachments/assets/ac5f3399-7b73-49ec-9e51-abeb7d04a201" />
+
 
 
 
