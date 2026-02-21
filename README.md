@@ -74,14 +74,7 @@ To ensure accurate and reliable insights, the dataset underwent the following st
 <img width="946" height="453" alt="Data Model" src="https://github.com/user-attachments/assets/56a4d418-0b6f-47af-a42d-81046855a418" />
 
 # Key Business Questions Answered
-- Which regions generate the highest sales and profit?
-- Which products are loss-generating?
-- Which markets have the lowest profit margins?
-- How do discounts impact product profitability?
-- Which customers contribute the most to total profit?
-- What is the relationship between shipping mode and profitability?
-
-# Time-Based Sales Performance Analysis
+## Time-Based Sales Performance Analysis
 - Which months consistently generate the highest sales?
 - How does monthly sales growth fluctuate?
 - How does monthly profit fluctuate over time?
@@ -92,6 +85,13 @@ How has overall sales performance evolved over the past years?
 <img width="736" height="404" alt="Screenshot 2026-02-21 192849" src="https://github.com/user-attachments/assets/b00dc955-11d1-4152-9381-fda26ae58efb" />
 
 
+
+- Which regions generate the highest sales and profit?
+- Which products are loss-generating?
+- Which markets have the lowest profit margins?
+- How do discounts impact product profitability?
+- Which customers contribute the most to total profit?
+- What is the relationship between shipping mode and profitability?
 Which markets generate the highest revenue?
 
 Answer Summary:
