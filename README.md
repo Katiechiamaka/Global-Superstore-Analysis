@@ -133,11 +133,13 @@ To ensure accurate and reliable insights, the dataset underwent the following st
 
 ## Risk and Loss Analysis
 ### Customer Performance
+- Which customer is responsible for the most ouststanding balance?
 - What is driving outstanding balances among the top owing customers?
 <img width="1587" height="405" alt="Screenshot 2026-02-22 000406" src="https://github.com/user-attachments/assets/d9fba595-616d-41ac-b1f5-26bb1e113277" />
 
 #### Insights
-- Customers with large negative balances (e.g., -$6,151) suggest delayed payments or extended credit terms.
+- Cindy Stewart with an outstanding balance of (-$6,151). 
+- Customers with large negative balances suggest delayed payments or extended credit terms.
 
 ### Country Performance
 - Which countries are contributing the most to overall losses?
@@ -161,22 +163,18 @@ To ensure accurate and reliable insights, the dataset underwent the following st
   However, loss making products should first be reviewed for pricing errors, high cost of goods, or excessive discounting before discontinuation.
 
 
-## Impact Of Discount and Shipping Fee Analysis
+## Shipping mode and Discount Analysis
 
-
-#### Summary fot time based sales performance
-Over the four-year period, the business demonstrates consistent annual growth, nearly doubling sales from $2.26M to $4.30M. However, monthly performance shows significant volatility, with sharp mid-year declines (notably July) followed by strong recoveries.
-Seasonal patterns indicate Q3 and Q4 as peak performance periods, driving both sales and profitability. Profit trends closely align with sales trends, suggesting operational efficiency and stable margins.
-
+<img width="1188" height="461" alt="Screenshot 2026-02-22 225616" src="https://github.com/user-attachments/assets/606b8c7d-1df8-4ef6-8527-41ab1fbe2081" />
 
 # Key KPIS 
-- Total Revenue: $12.64M
-- Total Orders: 25,035
-- Total Quantity Sold: 175K
-- Average Order Value: $505
-- Profit Margin: 11.61%
-- Total Customer Debt: -$65.51K
-- Total Countries Debt: -$447.9K
+- **Total Revenue:** $12.64M
+- **Total Orders:** 25,035
+- **Total Quantity Sold:** 175K
+- **Average Order Value:** $505
+- **Profit Margin:** 11.61%
+- **Total Customer Debt:** -$65.51K
+- **Total Countries Debt:** -$447.9K
 
 # DashBoard
 ### Global Superstore Dashboard Overview
@@ -195,25 +193,19 @@ Implement controlled discount thresholds.
 
 Avoid high discounts on already low-margin products.
 
-🎯 2. Reprice or Discontinue Loss Products
+2. Reprice or Discontinue Loss Products
 
 Re-evaluate pricing for Cubify printers and Tables.
 
 Consider discontinuing consistently loss-generating items.
 
-🎯 3. Focus on High-Margin Markets
+3. Focus on High-Margin Markets
 
 Invest more in Canada and North Asia.
 
 Improve operational efficiency in Southeast Asia.
 
-🎯 4. Optimize Product Mix
-
-Promote Technology products.
-
-Reduce inventory of low-performing furniture items.
-
-🎯 5. Strengthen Credit Management
+5. Strengthen Credit Management
 
 Improve customer payment policies.
 
@@ -221,36 +213,28 @@ Reduce outstanding debt exposure.
 
 
 # Challenges Faced And How it was Solved
-Challenge 1: Data Quality Issues
-
+### Challenge 1: Data Quality Issues
 Missing values and inconsistent formatting.
+  - Solved by data cleaning and standardization.
 
-Solved by data cleaning and standardization.
-
-🔹 Challenge 2: Profit Distortion Due to Discounts
-
+### Challenge 2: Profit Distortion Due to Discounts
 Difficult to identify true profit drivers.
+  - Solved by isolating discounted vs non-discounted performance.
 
-Solved by isolating discounted vs non-discounted performance.
-
-🔹 Challenge 3: Multi-Dimensional Analysis
-
+### Challenge 3: Multi-Dimensional Analysis
 Complex relationships across regions, categories, and time.
+  - Solved by implementing a Star Schema data model.
 
-Solved by implementing a Star Schema data model.
-
-🔹 Challenge 4: Identifying True Loss Drivers
-
+### Challenge 4: Identifying True Loss Drivers
 Sales did not equal profit.
-
-Used sub-category and product-level drilldowns
+  - Used sub-category and product-level drilldowns
 
 
 # Conclusion
 The Global Superstore demonstrates strong revenue growth and expanding operations. However, profitability is being eroded by:
- -- Excessive discounting
- -- Loss-making furniture sub-categories (Tables)
- -- Low-margin markets
+  - Excessive discounting
+  - Loss-making furniture sub-categories (Tables)
+  - Low-margin markets
 By optimizing discount policies, refining product mix, and focusing on high-margin markets, the business can significantly improve its overall profit margin beyond the current 11.61%.
 
 
