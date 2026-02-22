@@ -113,16 +113,23 @@ To ensure accurate and reliable insights, the dataset underwent the following st
 
 #### Insights
 - Cisco Smart Phone (Full Size), Motorola Smart Phone (Full Size), Nokia Smart Phone (Full Size), Canon imageCLASS 2200 Advanced Copier, and Nokia Smart Phone (with Caller ID) appears to be both high sellling and profit generating, indicating strong profit alignment.
-- Apple Smart Phone (Full Size) leads in sales but does not appear in the top profitability list, suggesting thinner margins.
-- Yes. The Canon imageCLASS 2200 generates the highest profit but ranks fifth in revenue, showing strong margin efficiency.
+- Apple Smart Phone (Full Size) leads in sales but does not add to profitability, suggesting thinner margins.
+- The Canon imageCLASS 2200 generates the highest profit but ranks fifth in revenue, showing strong margin efficiency.
 
 
 ### Category and Sub-Category Performance
-- Why are Copiers and Phones the most profitable sub-categories?
-- How can high-performing sub-categories be further leveraged to drive overall revenue growth?
-- Should marketing and inventory focus shift toward high-margin sub-categories?
+- Which category contributes the highest overall profit?
+- Which sub-category generates the highest profit?
+- Which sub-categories have strong sales but weak margins?
+- Which sub-category has the lowest total sales volume?
 
 <img width="1442" height="498" alt="Screenshot 2026-02-22 013237" src="https://github.com/user-attachments/assets/f68e1336-8581-49a0-841e-14447093bf9a" />
+
+#### Insights
+- Technology is the most profitable category, generating approximately $663.8K, making it the primary profit driver.
+- Copiers ($258.6K) generate the highest profit, followed by Phones ($216.7K).
+- Tables show moderate sales ($757K) but generate a loss (-$64.1K), indicating serious margin issues.
+
 
 
 ## Risk and Loss Analysis
