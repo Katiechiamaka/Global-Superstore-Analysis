@@ -8,15 +8,10 @@ This dataset contains transactional retail sales data covering customer orders, 
 This analysis was guided by the following business objectives:
 
 - Monitor overall sales and profit trends to assess business performance
-  
 - Identify regions, products, and customers driving losses for targeted improvements
-
 - Highlight top-performing products and customers to inform growth strategies
-
 - Analyze discount strategies and their effect on profit margins
-
 - Manage outstanding customer balances to strengthen cash flow and reduce risk
-
 - Deliver actionable insights through data visualization for informed decision-making
 
 # Dataset Description
@@ -45,6 +40,7 @@ This analysis was guided by the following business objectives:
 - **Visualization and Dashboarding** – Built charts and interactive dashboards to highlight insights
 - **Profitability and Loss Analysis** – Identified loss-making products, regions, and customers
 - **Operational Analysis** – Analyzed shipping modes, discount impacts, and regional performance
+  
 
 # Data Cleaning And Preparation
 To ensure accurate and reliable insights, the dataset underwent the following steps:
@@ -97,7 +93,6 @@ To ensure accurate and reliable insights, the dataset underwent the following st
 - Which region generates the highest profit?
 - Which regions are underperforming in profit despite moderate or high sales?
 - Which Region has the highest Profit Margin?
-- 
 <img width="1546" height="496" alt="Screenshot 2026-02-21 204418" src="https://github.com/user-attachments/assets/ac5f3399-7b73-49ec-9e51-abeb7d04a201" />
 
 #### Insights
@@ -105,34 +100,42 @@ To ensure accurate and reliable insights, the dataset underwent the following st
 - South and Southeast Asia underperform due to low profit margins despite maintaining moderate to high sales volumes.
 - Canada has the highest profit margin at 26.6%, making it the most efficient and profitable region relative to revenue.
 
+
 ## Product Category and Sub-category Analysis
 ### Product Category Performance
-- Which products are consistently generating losses, and why?
-- Should loss-making products (e.g., 3D printers, furniture items) be discontinued, repriced, or cost-optimized?
 - Are discounts contributing to negative product profitability?
-- Is there a pattern across specific product categories driving losses?
 
 ### Sub-Category Performance
 - Why are Copiers and Phones the most profitable sub-categories?
-- Why is Tables generating negative profit while other furniture-related categories perform better?
 - How can high-performing sub-categories be further leveraged to drive overall revenue growth?
 - Should marketing and inventory focus shift toward high-margin sub-categories?
+
+
 
 ## Risk and Loss Analysis
 ### Customer Performance
 - Which customers contribute the most to overall profitability?
-- How dependent is the business on the top 10 most profitable customers?
 - What is driving outstanding balances among the top owing customers?
-
-
-
 <img width="1587" height="405" alt="Screenshot 2026-02-22 000406" src="https://github.com/user-attachments/assets/d9fba595-616d-41ac-b1f5-26bb1e113277" />
 
+### Country Performance
+- Why are Turkey and Nigeria losing so much more money (-$98.4K and -$80.8K respectively)?
+- Are the losses due to high shipping costs?
 <img width="654" height="574" alt="Screenshot 2026-02-22 000959" src="https://github.com/user-attachments/assets/e792b1eb-f539-47f6-b63d-ff9ff126aa83" />
 
+### Product Performance
+- Which products are consistently generating losses?
+- Which Subcategory is generating loss?
+- Should loss-making products (e.g., 3D printers, furniture items) be discontinued, repriced, or cost-optimized?
 <img width="1165" height="471" alt="Screenshot 2026-02-22 000910" src="https://github.com/user-attachments/assets/f7bfef61-9b25-4875-8963-36ab800cab03" />
 
-
+#### Insights
+- Large negative balances (e.g., -$6,151) suggest delayed payments or extended credit terms.
+- Countries such as Turkey is the largest source of financial drain with a loss of -$98.4K, followed closely by Nigeria at -$80.8K, making these two countries the primary targets for urgent cost-cutting and strategy shifts.
+- Large losses in these countries suggest that logistics and shipping to these specific regions may be significantly eating into revenue.
+- The largest loss comes from the Cubify CubeX 3D Printer Double Head Print (-$8,879.97).
+- Tables is the only loss-making sub-category, generating a negative profit (−$64.1K)
+- Loss making products should first be reviewed for pricing errors, high cost of goods, or excessive discounting before discontinuation.
 
 
 ## Impact Of Discount and Shipping Fee Analysis
