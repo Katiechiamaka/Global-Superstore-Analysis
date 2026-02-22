@@ -160,6 +160,7 @@ To ensure accurate and reliable insights, the dataset underwent the following st
 - The largest loss comes from the Cubify CubeX 3D Printer Double Head Print (-$8,879.97).
 - Tables is the only loss-making sub-category, generating a negative profit (−$64.1K)
 - Tables and storage products particularly from the Bevis and Rogers brands, consistently generate losses, indicating potential issues with pricing strategy, excessive discounting, or an unfavorable cost structure.
+  
   However, loss making products should first be reviewed for pricing errors, high cost of goods, or excessive discounting before discontinuation.
 
 
@@ -213,21 +214,14 @@ Reduce outstanding debt exposure.
 
 
 # Challenges Faced And How it was Solved
-### Challenge 1: Data Quality Issues
-Missing values and inconsistent formatting.
-  - Solved by data cleaning and standardization.
-
-### Challenge 2: Profit Distortion Due to Discounts
-Difficult to identify true profit drivers.
-  - Solved by isolating discounted vs non-discounted performance.
-
-### Challenge 3: Multi-Dimensional Analysis
-Complex relationships across regions, categories, and time.
-  - Solved by implementing a Star Schema data model.
-
-### Challenge 4: Identifying True Loss Drivers
-Sales did not equal profit.
-  - Used sub-category and product-level drilldowns
+- **Data Quality Issues:** Missing values and inconsistent formatting.
+    - Solved by data cleaning and standardization.
+- **Profit Distortion Due to Discounts:** Difficult to identify true profit drivers.
+    - Solved by isolating discounted vs non-discounted performance.
+- **Multi-Dimensional Analysis:** Complex relationships across regions, categories, and time.
+    - Solved by implementing a Star Schema data model.
+- **Identifying True Loss Drivers:** Sales did not equal profit.
+    - Used sub-category and product-level drilldowns
 
 
 # Conclusion
