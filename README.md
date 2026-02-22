@@ -121,7 +121,7 @@ To ensure accurate and reliable insights, the dataset underwent the following st
 - Which category contributes the highest overall profit?
 - Which sub-category generates the highest profit?
 - Which sub-categories have strong sales but weak margins?
-- Which sub-category has the lowest total sales volume?
+- Are any sub-categories showing signs of profitability risk?
 
 <img width="1442" height="498" alt="Screenshot 2026-02-22 013237" src="https://github.com/user-attachments/assets/f68e1336-8581-49a0-841e-14447093bf9a" />
 
@@ -129,19 +129,24 @@ To ensure accurate and reliable insights, the dataset underwent the following st
 - Technology is the most profitable category, generating approximately $663.8K, making it the primary profit driver.
 - Copiers ($258.6K) generate the highest profit, followed by Phones ($216.7K).
 - Tables show moderate sales ($757K) but generate a loss (-$64.1K), indicating serious margin issues.
-
-
+- Yes. Machines generate approximately $58.9K profit on $779K in sales, indicating a relatively low profit to sales ratio and suggesting potential margin pressure that requires close monitoring and cost optimization review.
 
 ## Risk and Loss Analysis
 ### Customer Performance
-- Which customers contribute the most to overall profitability?
 - What is driving outstanding balances among the top owing customers?
 <img width="1587" height="405" alt="Screenshot 2026-02-22 000406" src="https://github.com/user-attachments/assets/d9fba595-616d-41ac-b1f5-26bb1e113277" />
 
+#### Insights
+- Customers with large negative balances (e.g., -$6,151) suggest delayed payments or extended credit terms.
+
 ### Country Performance
-- Why are Turkey and Nigeria losing so much more money (-$98.4K and -$80.8K respectively)?
+- Which countries are contributing the most to overall losses?
 - Are the losses due to high shipping costs?
 <img width="654" height="574" alt="Screenshot 2026-02-22 000959" src="https://github.com/user-attachments/assets/e792b1eb-f539-47f6-b63d-ff9ff126aa83" />
+
+#### Insights
+- Countries such as Turkey is the largest source of financial drain with a loss of -$98.4K, followed closely by Nigeria at -$80.8K, making these two countries the primary targets for urgent cost-cutting and strategy shifts.
+- Large losses in these countries suggest that logistics and shipping to these specific regions may be significantly eating into revenue.
 
 ### Product Performance
 - Which products are consistently generating losses?
@@ -150,9 +155,6 @@ To ensure accurate and reliable insights, the dataset underwent the following st
 <img width="1165" height="471" alt="Screenshot 2026-02-22 000910" src="https://github.com/user-attachments/assets/f7bfef61-9b25-4875-8963-36ab800cab03" />
 
 #### Insights
-- Customers with large negative balances (e.g., -$6,151) suggest delayed payments or extended credit terms.
-- Countries such as Turkey is the largest source of financial drain with a loss of -$98.4K, followed closely by Nigeria at -$80.8K, making these two countries the primary targets for urgent cost-cutting and strategy shifts.
-- Large losses in these countries suggest that logistics and shipping to these specific regions may be significantly eating into revenue.
 - The largest loss comes from the Cubify CubeX 3D Printer Double Head Print (-$8,879.97).
 - Tables is the only loss-making sub-category, generating a negative profit (−$64.1K)
 - Tables and storage products particularly from the Bevis and Rogers brands, consistently generate losses, indicating potential issues with pricing strategy, excessive discounting, or an unfavorable cost structure.
