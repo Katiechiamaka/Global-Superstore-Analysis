@@ -150,22 +150,6 @@ Over the four-year period, the business demonstrates consistent annual growth, n
 Seasonal patterns indicate Q3 and Q4 as peak performance periods, driving both sales and profitability. Profit trends closely align with sales trends, suggesting operational efficiency and stable margins.
 
 
-# Key Insights
-Revenue is growing consistently year over year.
-
-Technology category drives the majority of profit.
-
-Tables sub-category is significantly loss-making.
-
-Discounts negatively impact profitability.
-
-Some markets (Southeast Asia) have extremely low margins.
-
-A small group of customers contribute disproportionately to total profit.
-
-Customer debt and country-level debt indicate credit risk exposure.
-
-
 # Key KPIS 
 - Total Revenue: $12.64M
 - Total Orders: 25,035
