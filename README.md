@@ -92,7 +92,7 @@ To ensure accurate and reliable insights, the dataset underwent the following st
 ### Regional Sales & Profit Margin Across Market
 - Which region generates the highest profit?
 - Which regions are underperforming in profit despite moderate or high sales?
-- Which Region has the highest Profit Margin?
+- Which region has the highest Profit Margin?
 <img width="1546" height="496" alt="Screenshot 2026-02-21 204418" src="https://github.com/user-attachments/assets/ac5f3399-7b73-49ec-9e51-abeb7d04a201" />
 
 #### Insights
@@ -102,14 +102,17 @@ To ensure accurate and reliable insights, the dataset underwent the following st
 
 
 ## Product Category and Sub-category Analysis
-### Product Category Performance
+### Product Performance
 - Are discounts contributing to negative product profitability?
+<img width="840" height="448" alt="Screenshot 2026-02-22 013502" src="https://github.com/user-attachments/assets/cd9113f5-3933-4430-a8ea-242dbbdd1845" />
 
-### Sub-Category Performance
+
+### Category and Sub-Category Performance
 - Why are Copiers and Phones the most profitable sub-categories?
 - How can high-performing sub-categories be further leveraged to drive overall revenue growth?
 - Should marketing and inventory focus shift toward high-margin sub-categories?
 
+<img width="1442" height="498" alt="Screenshot 2026-02-22 013237" src="https://github.com/user-attachments/assets/f68e1336-8581-49a0-841e-14447093bf9a" />
 
 
 ## Risk and Loss Analysis
@@ -130,134 +133,22 @@ To ensure accurate and reliable insights, the dataset underwent the following st
 <img width="1165" height="471" alt="Screenshot 2026-02-22 000910" src="https://github.com/user-attachments/assets/f7bfef61-9b25-4875-8963-36ab800cab03" />
 
 #### Insights
-- Large negative balances (e.g., -$6,151) suggest delayed payments or extended credit terms.
+- Customers with large negative balances (e.g., -$6,151) suggest delayed payments or extended credit terms.
 - Countries such as Turkey is the largest source of financial drain with a loss of -$98.4K, followed closely by Nigeria at -$80.8K, making these two countries the primary targets for urgent cost-cutting and strategy shifts.
 - Large losses in these countries suggest that logistics and shipping to these specific regions may be significantly eating into revenue.
 - The largest loss comes from the Cubify CubeX 3D Printer Double Head Print (-$8,879.97).
 - Tables is the only loss-making sub-category, generating a negative profit (−$64.1K)
-- Loss making products should first be reviewed for pricing errors, high cost of goods, or excessive discounting before discontinuation.
+- Tables and storage products particularly from the Bevis and Rogers brands, consistently generate losses, indicating potential issues with pricing strategy, excessive discounting, or an unfavorable cost structure.
+  However, loss making products should first be reviewed for pricing errors, high cost of goods, or excessive discounting before discontinuation.
 
 
 ## Impact Of Discount and Shipping Fee Analysis
-
-
 
 
 #### Summary fot time based sales performance
 Over the four-year period, the business demonstrates consistent annual growth, nearly doubling sales from $2.26M to $4.30M. However, monthly performance shows significant volatility, with sharp mid-year declines (notably July) followed by strong recoveries.
 Seasonal patterns indicate Q3 and Q4 as peak performance periods, driving both sales and profitability. Profit trends closely align with sales trends, suggesting operational efficiency and stable margins.
 
-
-
-
-
-
-- Which regions generate the highest sales and profit?
-- Which products are loss-generating?
-- Which markets have the lowest profit margins?
-- How do discounts impact product profitability?
-- Which customers contribute the most to total profit?
-- What is the relationship between shipping mode and profitability?
-- 
-Which markets generate the highest revenue?
-
-Answer Summary:
-The Central market leads revenue generation, followed by North and North Asia.
-
-2️⃣ Which markets generate the lowest revenue?
-
-Answer Summary:
-Canada and Southeast Asia contribute the least revenue.
-
-3️⃣ Which markets have the highest profit margins?
-
-Answer Summary:
-Canada records the highest profit margin despite low revenue, indicating operational efficiency.
-
-4️⃣ Which markets have the lowest profit margins?
-
-Answer Summary:
-Southeast Asia and EMEA operate on very thin margins.
-
-5️⃣ Which countries generate the largest financial losses?
-
-Answer Summary:
-Turkey and Nigeria are the largest country-level loss contributors.
-
-6️⃣ Are losses concentrated in a few countries?
-
-Answer Summary:
-Yes. A small number of countries account for a significant portion of total losses.
-
-7️⃣ Which product category is the most profitable?
-
-Answer Summary:
-Technology is the strongest profit driver.
-
-8️⃣ Which product category contributes the least profit?
-
-Answer Summary:
-Furniture generates the lowest profit among major categories.
-
-9️⃣ Which sub-category is most profitable?
-
-Answer Summary:
-Copiers and Phones contribute the highest profits.
-
-🔟 Which sub-category generates losses?
-
-Answer Summary:
-Tables consistently produce negative profit.
-
-1️⃣1️⃣ Which products generate revenue but erode profit?
-
-Answer Summary:
-High-cost technology items (e.g., certain printers and 3D printers) generate losses despite strong sales.
-
-1️⃣2️⃣ How do discounts affect profitability?
-
-Answer Summary:
-Discounted sales generate negative profit overall, significantly reducing margins.
-
-1️⃣3️⃣ Does revenue growth translate into profit growth?
-
-Answer Summary:
-Revenue grows consistently year-over-year, but profitability is impacted by discounting and loss-making products.
-
-1️⃣4️⃣ How does profit trend over time?
-
-Answer Summary:
-Profit increases alongside revenue but fluctuates depending on discount intensity.
-
-1️⃣5️⃣ Which shipping modes generate the most profit?
-
-Answer Summary:
-Standard shipping balances volume and profitability more effectively than premium shipping.
-
-1️⃣6️⃣ Who are the most profitable customers?
-
-Answer Summary:
-A small group of customers contributes disproportionately to total profit.
-
-1️⃣7️⃣ Is profitability concentrated among specific segments?
-
-Answer Summary:
-Yes. Technology-focused customers drive the majority of profits.
-
-1️⃣8️⃣ What is the overall profit margin?
-
-Answer Summary:
-The business operates at a total profit margin of 11.61%.
-
-1️⃣9️⃣ What factors are reducing overall margin?
-
-Answer Summary:
-Excessive discounting, loss-making sub-categories, and country-level inefficiencies.
-
-2️⃣0️⃣ Where are the biggest improvement opportunities?
-
-Answer Summary:
-Optimizing discount strategy, restructuring loss-making products, and improving performance in high-loss countries.
 
 # Key Insights
 Revenue is growing consistently year over year.
