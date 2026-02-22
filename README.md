@@ -75,6 +75,9 @@ To ensure accurate and reliable insights, the dataset underwent the following st
 
 <img width="736" height="404" alt="Screenshot 2026-02-21 192849" src="https://github.com/user-attachments/assets/b00dc955-11d1-4152-9381-fda26ae58efb" />
 
+#### Insights
+- Sales increased consistently every year, from 2011 to 2014, sales grew by $2.04M overall. That represents nearly 90% total growth over four years.
+
 ### Monthly Trend Analysis
 - Which months consistently generate the highest sales?
 - How does monthly sales growth fluctuate?
@@ -83,7 +86,6 @@ To ensure accurate and reliable insights, the dataset underwent the following st
 <img width="1470" height="558" alt="Screenshot 2026-02-21 193909" src="https://github.com/user-attachments/assets/142d1387-626f-4a97-8ef8-2d251eed3a52" />
 
 #### Insights
-- Sales increased consistently every year, from 2011 to 2014, sales grew by $2.04M overall. That represents nearly 90% total growth over four years.
 - Q3 (July - Sep) and Q4 (Oct - Dec) are high-performance periods. July appears to be a recurring risk month with a decrease in sales and profit.
 - July shows both sales decline and profit drop. However, profit steadily improves toward Q4.
 - While December has the most sales, November generates the highest overall profit at $175.4K, followed closely by December ($170.7K) and September ($170.4K).
@@ -103,8 +105,16 @@ To ensure accurate and reliable insights, the dataset underwent the following st
 
 ## Product Category and Sub-category Analysis
 ### Product Performance
-- Are discounts contributing to negative product profitability?
-<img width="840" height="448" alt="Screenshot 2026-02-22 013502" src="https://github.com/user-attachments/assets/cd9113f5-3933-4430-a8ea-242dbbdd1845" />
+- Which of the top 10 best-selling products are also among the top 10 most profitable?
+- Which products have strong sales volume but relatively low profitability?
+- Are there products that generate high profit despite not being top sellers?
+
+<img width="1804" height="510" alt="Screenshot 2026-02-22 185136" src="https://github.com/user-attachments/assets/7bc4ee74-14aa-4060-affa-9d08ad9b4ff0" />
+
+#### Insights
+- Cisco Smart Phone (Full Size), Motorola Smart Phone (Full Size), Nokia Smart Phone (Full Size), Canon imageCLASS 2200 Advanced Copier, and Nokia Smart Phone (with Caller ID) appears to be both high sellling and profit generating, indicating strong profit alignment.
+- Apple Smart Phone (Full Size) leads in sales but does not appear in the top profitability list, suggesting thinner margins.
+- Yes. The Canon imageCLASS 2200 generates the highest profit but ranks fifth in revenue, showing strong margin efficiency.
 
 
 ### Category and Sub-Category Performance
