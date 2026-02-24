@@ -198,7 +198,7 @@ To ensure accurate and reliable insights, the dataset underwent the following st
 - Countries with losses (e.g., Turkey and Nigeria) should be closes examined for causes such as excessive discount, high shipping cost or poor demand.
 
 #### Customer Retension
-- Top customers like Tamara Chand, Raymond Buch and Sanjit Chand, generates substantial profits across categories. A personalized offer or priority services for this high-value customers could futher strengthen their retention and increase value.
+- Top customers like Tamara Chand, Raymond Buch and Sanjit Chand, generates substantial profits across categories. A personalized offer or priority services for this high-value customers could further strengthen their retention and increase value.
 - Outstanding customers with large unpaid balances may be impacting cash flow despite contributing to revenue. Implementing stricter credit controls, clearer payment terms, and proactive follow-ups, while offering structured payment plans where necessary could improve collections and strengthen overall financial stability.
   
 
