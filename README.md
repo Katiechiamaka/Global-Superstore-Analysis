@@ -189,7 +189,7 @@ To ensure accurate and reliable insights, the dataset underwent the following st
 
 # Recommendation
 #### Product- Level Actions
-- Tables stands out as a consistent underperforming sub-category while Cubify CubeX 3D Printer Double Head Print is the most underperforming Product, with significatant loss. Immediate review of the pricing, and logistics for this sub-category is necessary. If improvement measures fail, removing these products and subcategory in unprofitable Regions should be considered.
+- Tables stands out as a consistent underperforming sub-category while Cubify CubeX 3D Printer Double Head Print is the most underperforming Product, with significant loss. Immediate review of the pricing, and logistics for this sub-category is necessary. If improvement measures fail, removing these products and subcategory in unprofitable Regions should be considered.
 
 #### Sub-Category Growth
 - High profit sub-categories like Copiers and Phones should receive increased promotional and stocking priority in both physical and online channels.
