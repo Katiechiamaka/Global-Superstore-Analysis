@@ -188,30 +188,18 @@ To ensure accurate and reliable insights, the dataset underwent the following st
 <img width="934" height="410" alt="Global Superstore Risk and Loss Analysis" src="https://github.com/user-attachments/assets/2b6efa3c-a7ee-4f71-a4ad-3a06b2de3fde" />
 
 # Recommendation
-1. Review Discount Strategy
+#### Product- Level Actions
+- Tables stands out as a consistent underperforming sub-category while Cubify CubeX 3D Printer Double Head Print is the most underperforming Product, with significatant loss. Immediate review of the pricing, and logistics for this sub-category is necessary. If improvement measures fail, removing these products and subcategory in unprofitable Regions should be considered.
 
-Implement controlled discount thresholds.
+#### Sub-Category Growth
+- High profit sub-categories like Copiers and Phones should receive increased promotional and stocking priority in both physical and online channels.
 
-Avoid high discounts on already low-margin products.
+#### Regional Optimization
+- Countries with losses (e.g., Turkey and Nigeria) should be closes examined for causes such as excessive discount, high shipping cost or poor demand.
 
-2. Reprice or Discontinue Loss Products
-
-Re-evaluate pricing for Cubify printers and Tables.
-
-Consider discontinuing consistently loss-generating items.
-
-3. Focus on High-Margin Markets
-
-Invest more in Canada and North Asia.
-
-Improve operational efficiency in Southeast Asia.
-
-5. Strengthen Credit Management
-
-Improve customer payment policies.
-
-Reduce outstanding debt exposure.
-
+#### Customer Retension
+- Top customers like Tamara Chand, Raymond Buch and Sanjit Chand, generates substantial profits across categories. A personalized offer or priority services for this high-value customers could futher strengthen their retention and increase value.
+  
 
 # Challenges Faced And How it was Solved
 - **Data Quality Issues:** Missing values and inconsistent formatting.
