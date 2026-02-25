@@ -219,5 +219,3 @@ The Global Superstore demonstrates strong revenue growth and expanding operation
   - Loss-making furniture sub-categories (Tables)
   - Low-margin markets
 By optimizing discount policies, refining product mix, and focusing on high-margin markets, the business can significantly improve its overall profit margin beyond the current 11.61%.
-
-
