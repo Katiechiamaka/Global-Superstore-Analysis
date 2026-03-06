@@ -168,6 +168,12 @@ To ensure accurate and reliable insights, the dataset underwent the following st
 
 <img width="1188" height="461" alt="Screenshot 2026-02-22 225616" src="https://github.com/user-attachments/assets/606b8c7d-1df8-4ef6-8527-41ab1fbe2081" />
 
+#### Insights
+- Standard Class is the most preferred and most profitable shipping method, generating significantly higher sales volume and profit than other shipping modes.
+- First Class generates reasonable profit but lower order volume, suggesting customers may use it only when faster delivery is needed.
+- Same Day delivery has very low demand and profitability, likely due to higher costs or limited customer preference.
+- Most revenue and profit come from products sold without discounts, indicating strong product demand even at full price.
+
 # Key KPIS 
 - **Total Revenue:** $12.64M
 - **Total Orders:** 25,035
