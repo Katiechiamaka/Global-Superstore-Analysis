@@ -25,6 +25,36 @@ This analysis was guided by the following business objectives:
 - **Key Variables:** Order ID, Customer ID, Region, Product Category and Sub-category, Sales, Profit, Discount, Shipping Mode
 - **Purpose:** Used to analyze Sales performance, profitability, and operational efficiency.
 
+
+# Data Cleaning And Preparation
+To ensure accurate and reliable insights, the dataset underwent the following steps:
+- Conducted data inspection to understand structure and relationships.
+- Handled missing values, and checked for duplicate records.
+- Standardized categorical data types.
+- Cleaned inconsistent text entries (regions, product names, etc.).
+- Created calculated metrics such as Profit Margin (%).
+- Extracted Year and Month from Order Date and Shipment Date for time-based analysis.
+
+
+# Data Modeling
+- **Model Type:** Star Schema
+- **Fact Table:** `Orders` – Contains transactional data such as Order Id, Order Priority, Sales, Profit, Quantity, and Discount
+- **Dimension Tables:**
+  - `Customer` – Contains customer details (Row ID, Customer ID, Customer Name, Segment)
+  - `Product` – Contains product details (Product ID, Product Name, category, sub-category, price)
+  - `Location` – Contains regional and country information
+  - `Calendar` – Contains date-related fields (order date, month, quarter, year)
+
+- **Relationships:**
+  - Each dimension table is linked to the `Orders` fact table via a primary key → foreign key relationship
+  - All relationships are one-to-many (1 dimension record → many orders)
+- **Purpose:**
+  - Enables efficient aggregation and analysis of sales, profit, and operational metrics
+  - Facilitates creation of measures and KPIs using Power Pivot (DAX)
+
+<img width="946" height="453" alt="Data Model" src="https://github.com/user-attachments/assets/56a4d418-0b6f-47af-a42d-81046855a418" />
+
+
 # Key KPIS 
 - **Total Revenue:** $12.64M
 - **Total Orders:** 25,035
@@ -44,62 +74,6 @@ This analysis was guided by the following business objectives:
 ### Risk And Loss Analysis 
 <img width="934" height="410" alt="Global Superstore Risk and Loss Analysis" src="https://github.com/user-attachments/assets/2b6efa3c-a7ee-4f71-a4ad-3a06b2de3fde" />
 
-# Recommendation
-#### Product- Level Actions
-- Tables stands out as a consistent underperforming sub-category while Cubify CubeX 3D Printer Double Head Print is the most underperforming Product, with significant loss. Immediate review of the pricing, and logistics for this sub-category is necessary. If improvement measures fail, removing these products and subcategory in unprofitable Regions should be considered.
-
-#### Sub-Category Growth
-- High profit sub-categories like Copiers and Phones should receive increased promotional and stocking priority in both physical and online channels.
-
-#### Regional Optimization
-- Countries with losses (e.g., Turkey and Nigeria) should be closes examined for causes such as excessive discount, high shipping cost or poor demand.
-
-#### Customer Retension
-- Top customers like Tamara Chand, Raymond Buch and Sanjit Chand, generates substantial profits across categories. A personalized offer or priority services for this high-value customers could further strengthen their retention and increase value.
-- Outstanding customers with large unpaid balances may be impacting cash flow despite contributing to revenue. Implementing stricter credit controls, clearer payment terms, and proactive follow-ups, while offering structured payment plans where necessary could improve collections and strengthen overall financial stability.
-
-# Tools and Techniques
-### Tools Used
-- **Microsoft Excel** – For data exploration, analysis, and visualization
-- **Power Query** – For data cleaning and transformation
-- **Power Pivot** – For data modeling and advanced calculations using DAX
-
-### Techniques Applied
-- **Data Cleaning and Transformation** – Handled missing values, removed duplicates, and formatted data
-- **Data Modeling** – Created relationships between tables and calculated measures
-- **Exploratory Data Analysis (EDA)** – Summarized key metrics and identified patterns in sales, profit, and customer behavior
-- **Tables and Charts** – Used pivot tables, regular tables, and charts to visualize data and communicate insights
-- **Visualization and Dashboarding** – Built charts and interactive dashboards to highlight insights
-- **Profitability and Loss Analysis** – Identified loss-making products, regions, and customers
-- **Operational Analysis** – Analyzed shipping modes, discount impacts, and regional performance
-  
-
-# Data Cleaning And Preparation
-To ensure accurate and reliable insights, the dataset underwent the following steps:
-- Conducted data inspection to understand structure and relationships.
-- Handled missing values, and checked for duplicate records.
-- Standardized categorical data types.
-- Cleaned inconsistent text entries (regions, product names, etc.).
-- Created calculated metrics such as Profit Margin (%).
-- Extracted Year and Month from Order Date and Shipment Date for time-based analysis.
-
-# Data Modeling
-- **Model Type:** Star Schema
-- **Fact Table:** `Orders` – Contains transactional data such as Order Id, Order Priority, Sales, Profit, Quantity, and Discount
-- **Dimension Tables:**
-  - `Customer` – Contains customer details (Row ID, Customer ID, Customer Name, Segment)
-  - `Product` – Contains product details (Product ID, Product Name, category, sub-category, price)
-  - `Location` – Contains regional and country information
-  - `Calendar` – Contains date-related fields (order date, month, quarter, year)
-
-- **Relationships:**
-  - Each dimension table is linked to the `Orders` fact table via a primary key → foreign key relationship
-  - All relationships are one-to-many (1 dimension record → many orders)
-- **Purpose:**
-  - Enables efficient aggregation and analysis of sales, profit, and operational metrics
-  - Facilitates creation of measures and KPIs using Power Pivot (DAX)
-
-<img width="946" height="453" alt="Data Model" src="https://github.com/user-attachments/assets/56a4d418-0b6f-47af-a42d-81046855a418" />
 
 # Key Business Questions Answered
 ## Time-Based Sales Performance Analysis
@@ -206,6 +180,36 @@ To ensure accurate and reliable insights, the dataset underwent the following st
 - Same Day delivery has very low demand and profitability, likely due to higher costs or limited customer preference.
 - Most revenue and profit come from products sold without discounts, indicating strong product demand even at full price.
 
+
+# Recommendation
+#### Product- Level Actions
+- Tables stands out as a consistent underperforming sub-category while Cubify CubeX 3D Printer Double Head Print is the most underperforming Product, with significant loss. Immediate review of the pricing, and logistics for this sub-category is necessary. If improvement measures fail, removing these products and subcategory in unprofitable Regions should be considered.
+
+#### Sub-Category Growth
+- High profit sub-categories like Copiers and Phones should receive increased promotional and stocking priority in both physical and online channels.
+
+#### Regional Optimization
+- Countries with losses (e.g., Turkey and Nigeria) should be closes examined for causes such as excessive discount, high shipping cost or poor demand.
+
+#### Customer Retension
+- Top customers like Tamara Chand, Raymond Buch and Sanjit Chand, generates substantial profits across categories. A personalized offer or priority services for this high-value customers could further strengthen their retention and increase value.
+- Outstanding customers with large unpaid balances may be impacting cash flow despite contributing to revenue. Implementing stricter credit controls, clearer payment terms, and proactive follow-ups, while offering structured payment plans where necessary could improve collections and strengthen overall financial stability.
+
+# Tools and Techniques
+### Tools Used
+- **Microsoft Excel** – For data exploration, analysis, and visualization
+- **Power Query** – For data cleaning and transformation
+- **Power Pivot** – For data modeling and advanced calculations using DAX
+
+### Techniques Applied
+- **Data Cleaning and Transformation** – Handled missing values, removed duplicates, and formatted data
+- **Data Modeling** – Created relationships between tables and calculated measures
+- **Exploratory Data Analysis (EDA)** – Summarized key metrics and identified patterns in sales, profit, and customer behavior
+- **Tables and Charts** – Used pivot tables, regular tables, and charts to visualize data and communicate insights
+- **Visualization and Dashboarding** – Built charts and interactive dashboards to highlight insights
+- **Profitability and Loss Analysis** – Identified loss-making products, regions, and customers
+- **Operational Analysis** – Analyzed shipping modes, discount impacts, and regional performance
+  
 
 # Challenges Faced And How it was Solved
 - **Data Quality Issues:** Missing values and inconsistent formatting.
