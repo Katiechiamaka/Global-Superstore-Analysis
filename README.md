@@ -25,6 +25,38 @@ This analysis was guided by the following business objectives:
 - **Key Variables:** Order ID, Customer ID, Region, Product Category and Sub-category, Sales, Profit, Discount, Shipping Mode
 - **Purpose:** Used to analyze Sales performance, profitability, and operational efficiency.
 
+# Key KPIS 
+- **Total Revenue:** $12.64M
+- **Total Orders:** 25,035
+- **Total Quantity Sold:** 175K
+- **Average Order Value:** $505
+- **Profit Margin:** 11.61%
+- **Total Customer Debt:** -$65.51K
+- **Total Countries Debt:** -$447.9K
+
+# DashBoard
+### Global Superstore Dashboard Overview
+<img width="932" height="412" alt="Global Superstore Dashboard Overview" src="https://github.com/user-attachments/assets/ae36a130-dbac-47ef-9ab3-07ab7317ed3b" />
+
+### Sales And Profit Analysis
+<img width="933" height="410" alt="Global Superstore Sales and Profit Analysis" src="https://github.com/user-attachments/assets/709216a7-5923-4413-ad39-d82fc1e70534" />
+
+### Risk And Loss Analysis 
+<img width="934" height="410" alt="Global Superstore Risk and Loss Analysis" src="https://github.com/user-attachments/assets/2b6efa3c-a7ee-4f71-a4ad-3a06b2de3fde" />
+
+# Recommendation
+#### Product- Level Actions
+- Tables stands out as a consistent underperforming sub-category while Cubify CubeX 3D Printer Double Head Print is the most underperforming Product, with significant loss. Immediate review of the pricing, and logistics for this sub-category is necessary. If improvement measures fail, removing these products and subcategory in unprofitable Regions should be considered.
+
+#### Sub-Category Growth
+- High profit sub-categories like Copiers and Phones should receive increased promotional and stocking priority in both physical and online channels.
+
+#### Regional Optimization
+- Countries with losses (e.g., Turkey and Nigeria) should be closes examined for causes such as excessive discount, high shipping cost or poor demand.
+
+#### Customer Retension
+- Top customers like Tamara Chand, Raymond Buch and Sanjit Chand, generates substantial profits across categories. A personalized offer or priority services for this high-value customers could further strengthen their retention and increase value.
+- Outstanding customers with large unpaid balances may be impacting cash flow despite contributing to revenue. Implementing stricter credit controls, clearer payment terms, and proactive follow-ups, while offering structured payment plans where necessary could improve collections and strengthen overall financial stability.
 
 # Tools and Techniques
 ### Tools Used
@@ -174,39 +206,6 @@ To ensure accurate and reliable insights, the dataset underwent the following st
 - Same Day delivery has very low demand and profitability, likely due to higher costs or limited customer preference.
 - Most revenue and profit come from products sold without discounts, indicating strong product demand even at full price.
 
-# Key KPIS 
-- **Total Revenue:** $12.64M
-- **Total Orders:** 25,035
-- **Total Quantity Sold:** 175K
-- **Average Order Value:** $505
-- **Profit Margin:** 11.61%
-- **Total Customer Debt:** -$65.51K
-- **Total Countries Debt:** -$447.9K
-
-# DashBoard
-### Global Superstore Dashboard Overview
-<img width="932" height="412" alt="Global Superstore Dashboard Overview" src="https://github.com/user-attachments/assets/ae36a130-dbac-47ef-9ab3-07ab7317ed3b" />
-
-### Sales And Profit Analysis
-<img width="933" height="410" alt="Global Superstore Sales and Profit Analysis" src="https://github.com/user-attachments/assets/709216a7-5923-4413-ad39-d82fc1e70534" />
-
-### Risk And Loss Analysis 
-<img width="934" height="410" alt="Global Superstore Risk and Loss Analysis" src="https://github.com/user-attachments/assets/2b6efa3c-a7ee-4f71-a4ad-3a06b2de3fde" />
-
-# Recommendation
-#### Product- Level Actions
-- Tables stands out as a consistent underperforming sub-category while Cubify CubeX 3D Printer Double Head Print is the most underperforming Product, with significant loss. Immediate review of the pricing, and logistics for this sub-category is necessary. If improvement measures fail, removing these products and subcategory in unprofitable Regions should be considered.
-
-#### Sub-Category Growth
-- High profit sub-categories like Copiers and Phones should receive increased promotional and stocking priority in both physical and online channels.
-
-#### Regional Optimization
-- Countries with losses (e.g., Turkey and Nigeria) should be closes examined for causes such as excessive discount, high shipping cost or poor demand.
-
-#### Customer Retension
-- Top customers like Tamara Chand, Raymond Buch and Sanjit Chand, generates substantial profits across categories. A personalized offer or priority services for this high-value customers could further strengthen their retention and increase value.
-- Outstanding customers with large unpaid balances may be impacting cash flow despite contributing to revenue. Implementing stricter credit controls, clearer payment terms, and proactive follow-ups, while offering structured payment plans where necessary could improve collections and strengthen overall financial stability.
-  
 
 # Challenges Faced And How it was Solved
 - **Data Quality Issues:** Missing values and inconsistent formatting.
