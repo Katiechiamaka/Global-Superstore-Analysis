@@ -55,7 +55,7 @@ To ensure accurate and reliable insights, the dataset underwent the following st
 <img width="946" height="453" alt="Data Model" src="https://github.com/user-attachments/assets/56a4d418-0b6f-47af-a42d-81046855a418" />
 
 
-# Key KPIS 
+# KPIS 
 - **Total Revenue:** $12.64M
 - **Total Orders:** 25,035
 - **Total Quantity Sold:** 175K
